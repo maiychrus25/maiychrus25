@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=100rabhcsmc&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" />
 </p>
 
-<div style="text-align: center;">
+<div style="text-align: center; display: flex; justify-content: center; align-items: center;">
   <a target="_blank">
     <img height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
   </a>
