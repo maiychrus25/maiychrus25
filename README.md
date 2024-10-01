@@ -10,16 +10,7 @@
       <img src="https://img.shields.io/twitter/follow/100rabhcsmc?logo=twitter&style=for-the-badge" alt="100rabhcsmc" />  
     </a>  
   </p>  
-
-<a target="_blank" align="center">
-  <img align="right" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-</a>
-
-- 🔭 I’m currently working at <a href="https://phoenix.tech/griffyn/" target="blank">My Home</a>
-- 📝 I regularly write articles on [MAIY.io](https://source-profile-psi.vercel.app/)
-- 📫 Reach me at <strong>ninhkhuongpl@gmail.com</strong>
-<br/>
-
+  
  <h3>
     <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝
   </h3>
@@ -38,7 +29,3 @@
       <img src="https://img.icons8.com/?size=100&id=118640&format=png&color=000000" width="40" height="40">
     </a>
   </div>
-
-
-
-
