@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">MAIY 07!!!</a></h1>
+<h1 align="center">Hi 👋, I'm <a href="https://source-profile-psi.vercel.app//" target="blank">MAIY 07!!!</a></h1>
 <h3 align="center"><i>🌱 I’m currently studying in ICTU.</i></h3>
 
 <p align="center">
