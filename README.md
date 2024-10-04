@@ -17,7 +17,7 @@
 **Talking about Personal Information:**
 <ul>
   <li>- 🌱 I’m not studying anything right now. </li>
-  <li>- 👯 I’m looking for something interesting to do.`</li>
+  <li>- 👯 I’m looking for something interesting to do.</li>
   <li>- 💬 Ask me about anything, except math! 😅</li>
   <li>- ⚡ Fun fact: I waste most of my time playing games</li>
 </ul>
