@@ -10,7 +10,7 @@
 
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
 <br>
-  <a href="https://visitcount.itsvg.in">
+  <a href="https://github.com/maiychrus25">
     <img src="https://visitcount.itsvg.in/api?id=maiyanchrus25&label=Profile%20Views&color=0&icon=3&pretty=true" />
   </a>
 </a>
