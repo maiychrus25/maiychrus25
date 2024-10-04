@@ -14,14 +14,12 @@
   <img src="https://visitcount.itsvg.in/api?id=ridhamrj&label=Profile%20Views&color=0&icon=0&pretty=true" />
 </a>
   
-**Talking about Personal Stuffs:**
+**Talking about Personal Information:**
 <ul>
-  <li>- 🔭 I’m currently ...</li>
-  <li>- 🌱 I’m currently learning ...</li>
-  <li>- 👯 I’m looking to ...`</li>
-  <li>- 🤔 I’m looking for help with `...`</li>
-  <li>- 💬 Ask me about anything, Except Maths :sweat_smile:</li>
-  li>- ⚡ Fun fact: I waste most of my time playing games</li>
+  <li>- 🌱 I’m not studying anything right now. </li>
+  <li>- 👯 I’m looking for something interesting to do.`</li>
+  <li>- 💬 Ask me about anything, except math! 😅</li>
+  <li>- ⚡ Fun fact: I waste most of my time playing games</li>
 </ul>
 
 <p align="center">
