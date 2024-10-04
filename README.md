@@ -24,8 +24,8 @@
   li>- ⚡ Fun fact: I waste most of my time playing games</li>
 </ul>
 
-<div style="text-align: center; display: flex; justify-content: center; align-items: center;">
-  <a target="_blank">
+<p align="center">
+  <a align="center" target="_blank">
     <img height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
   </a>
-</div>
+</p>
